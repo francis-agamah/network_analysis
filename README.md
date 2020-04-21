@@ -3,7 +3,7 @@ Large–scale data–driven network analysis of human–plasmodium falciparum in
 #This file elaborates on the scripts and datasets used for analaysis
 #The pipeline used for this study comprises of four main steps
 #follow the link below to the script and files used for analysis
-# https://drive.google.com/file/d/1ra0v2zXFCDkxaydAYs5UUHu4wVACwiLL/view?usp=sharing
+https://drive.google.com/file/d/1ygBtug07h-l7jfPAZrnOU6xxPV2wHGCE/view?usp=sharing
 
 #Step 1:
 Step 1 involves scoring domains and protein sequences.
