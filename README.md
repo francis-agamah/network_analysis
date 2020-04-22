@@ -1,4 +1,4 @@
-Large–scale data–driven network analysis of human–plasmodium falciparum interactome: extracting essential targets and processes for malaria drug discovery
+Large–scale data–driven network analysis of human–plasmodium falciparum interactome: processes for malaria drug discovery and extracting in silico targets
 
 #This file elaborates on the scripts and datasets used for analaysis
 #The pipeline used for this study comprises of four main steps
